@@ -4,4 +4,5 @@ This is a website that i am making on vscode and posting to github pages. To pos
 
 1. right click on readme, do reveal in finder 
 2. On github in your folder go to add files then upload files 
-3. 
+
+![screen shot of github pages](README_images/vscodescreenshot.png)
